@@ -21,7 +21,7 @@ var objc = JSON.parse($response.body);
       "UserId" : 428156494,
       "LevelName" : "普通用户",
       "Head" : "https://files.catbox.moe/xg66nf.JPG",
-      "LevelNumber" : 0,
+      "LevelNumber" : 99,
       "FrameId" : 0,
       "LevelActionUrl" : "QDReader://h5.if.qidian.com/statics/profile/scorelevel.html;QDReader://h5.if.qidian.com/statics/profile/vip.html?_viewmode=1",
       "Level" : "Lv.8",//等级

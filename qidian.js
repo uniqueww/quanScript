@@ -20,7 +20,7 @@ var objc = JSON.parse($response.body);
     "UserBasicInfo" : {
       "UserId" : 428156494,
       "LevelName" : "普通用户",
-      "Head" : "https://github.com/uniqueww/quanScript/blob/master/IMG_0005.JPG",
+      "Head" : "https://raw.githubusercontent.com/uniqueww/quanScript/master/IMG_0005.JPG",
       "LevelNumber" : 99,
       "FrameId" : 0,
       "LevelActionUrl" : "QDReader://h5.if.qidian.com/statics/profile/scorelevel.html;QDReader://h5.if.qidian.com/statics/profile/vip.html?_viewmode=1",

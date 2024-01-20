@@ -47,7 +47,7 @@ hostname = app.moutai519.com.cn
 ^https:\/\/app\.moutai519\.com\.cn\/xhr\/front\/mall\/message\/unRead\/query url script-request-header https://github.com/Jun-gle/Quantumult/raw/main/i-maotai.js
 
 [task_local]
-17 9 * * * https://github.com/Jun-gle/Quantumult/raw/main/i-maotai.js, tag=i 茅台, enabled=true
+https://raw.githubusercontent.com/uniqueww/quanScript/master/maotai.js, tag=i 茅台, enabled=true
 
 ------------------ Stash 配置 -----------------
 
